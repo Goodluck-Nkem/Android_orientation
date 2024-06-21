@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Change_Orientation</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="help_text">Click Button to change orientation</string>
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Landscape</string>
+    <string name="sensor_portrait">Sensor Portrait</string>
+    <string name="sensor_landscape">Sensor Landscape</string>
+    <string name="reverse_portrait">Reverse Portrait</string>
+    <string name="reverse_landscape">Reverse Landscape</string>
+
+    <string name="lorem_ipsum">
+        Overwritten by me!
+    </string>
+</resources>
